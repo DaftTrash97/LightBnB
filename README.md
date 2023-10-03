@@ -20,6 +20,6 @@ A simple Airbnb clone that uses a server-side Javascript to display the informat
 
 ## Screenshots
 
-!["Screenshot of my reservations view"](https://github.com/DaftTrash97/tweeter1/blob/master/docs/mobileAndTabletView.png?raw=true)
-!["Screenshot of search"](https://github.com/DaftTrash97/tweeter1/blob/master/docs/desktopView.png?raw=true)
-!["Screenshot of create listing"](https://github.com/DaftTrash97/tweeter1/blob/master/docs/errorMessage.png?raw=true)
+!["Screenshot of my reservations view"](https://github.com/DaftTrash97/LightBnB/blob/master/docs/myReservations.png?raw=true)
+!["Screenshot of search"](https://github.com/DaftTrash97/LightBnB/blob/master/docs/search.png?raw=true)
+!["Screenshot of create listing"](https://github.com/DaftTrash97/LightBnB/blob/master/docs/createListing.png?raw=true)
